@@ -8,4 +8,4 @@ Backend Engineer focused on distributed systems, high-performance database archi
 ### Technical Stack
 * **Backend:** Python, FastAPI, Node.js, C, Java
 * **Databases:** PostgreSQL, Redis
-* **Infra/DevOps:** Docker, Linux, CI/CD, Git
+* **Infra/DevOps:** Docker, Linux, Git
