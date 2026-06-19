@@ -1,6 +1,6 @@
 
 
-Backend Engineer focused on distributed systems, high-performance database architectures, and scalable infrastructure.
+Backend Engineer 
 
 - **Education:** B.S. Candidate in Information Systems at Universidade Federal Fluminense (UFF)
 - **Core Stack:** Python (FastAPI), PostgreSQL, Docker, Linux
