@@ -8,4 +8,4 @@ Backend Engineer
 ### Technical Stack
 * **Backend:** Python, FastAPI, C
 * **Databases:** PostgreSQL, Redis
-* **Infra/DevOps:** Docker, Linux, Git, Pytest, Observability, Nginx
+* **Infra/DevOps:** Docker, Linux, Git, Pytest, Observability, Nginx, CI/CD
