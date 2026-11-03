@@ -1,5 +1,3 @@
-# Bento Salles Florido
-
 **Backend & DevOps Engineer** | Information Systems @ **UFF** (Universidade Federal Fluminense)  
 Building resilient Python backends, cloud-native infrastructure, and observability pipelines.
 
